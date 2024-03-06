@@ -1,0 +1,12 @@
+escape ^\\
+autodetach on
+startup_message off
+defscrollback 1000
+bind ^k
+bind 'K' kill
+bind "	" other
+hardstatus on
+hardstatus alwayslastline
+hardstatus string "%w"
+defscrollback 50000
+
